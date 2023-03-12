@@ -15,7 +15,8 @@
 - CSS3,
 - SCSS,
 - JavaScript,
-- jQuery.
+- jQuery,
+- Adaptability.
 
 ---
 
